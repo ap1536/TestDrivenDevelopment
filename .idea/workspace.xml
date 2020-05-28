@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba9807ad-8a4a-4dd7-89d2-e7a9395a91f6" name="Default Changelist" comment="Started Test Driven Development Course work.">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_junit_jupiter_junit_jupiter_5_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Hangman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/WordSource.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/TestHangman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestDrivenDevelopment.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TestDrivenDevelopment.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\apabbathi2\TestDrivenDevelopment\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cTTDkD7HnAHDsmqMBMxyJVPric" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="true" />
+    <property name="Repository.Attach.JavaDocs" value="true" />
+    <property name="Repository.Attach.Sources" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\apabbathi2\TestDrivenDevelopment\src\main" />
+      <recent name="C:\Users\apabbathi2\TestDrivenDevelopment\src" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestHangman">
+    <configuration name="TestHangman" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestDrivenDevelopment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.TestHangman" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestHangman.test_lengthofFetchedWord" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestDrivenDevelopment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.TestHangman" />
+      <option name="METHOD_NAME" value="test_lengthofFetchedWord" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestHangman.test_lengthofFetchedWordRandom" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestDrivenDevelopment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.TestHangman" />
+      <option name="METHOD_NAME" value="test_lengthofFetchedWordRandom" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestHangman.test_scoreAfterCorrectGuess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestDrivenDevelopment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.TestHangman" />
+      <option name="METHOD_NAME" value="test_scoreAfterCorrectGuess" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestHangman.test_uniquenessOfFetchedWord" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestDrivenDevelopment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.TestHangman" />
+      <option name="METHOD_NAME" value="test_uniquenessOfFetchedWord" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestHangman" />
+        <item itemvalue="JUnit.TestHangman.test_scoreAfterCorrectGuess" />
+        <item itemvalue="JUnit.TestHangman.test_uniquenessOfFetchedWord" />
+        <item itemvalue="JUnit.TestHangman.test_lengthofFetchedWordRandom" />
+        <item itemvalue="JUnit.TestHangman.test_lengthofFetchedWord" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+    <option name="showServicesTree" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba9807ad-8a4a-4dd7-89d2-e7a9395a91f6" name="Default Changelist" comment="" />
+      <created>1590551465408</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590551465408</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Started Test Driven Development Course work.">
+      <created>1590551574420</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590551574420</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Started Test Driven Development Course work." />
+    <option name="LAST_COMMIT_MESSAGE" value="Started Test Driven Development Course work." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1590559368668">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590559368668" />
+    <state x="690" y="302" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1590556827652">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="302" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590556827652" />
+    <state x="563" y="188" key="#test_in_TestDrivenDevelopment" timestamp="1590554367453">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="563" y="188" key="#test_in_TestDrivenDevelopment/0.0.1920.1040@0.0.1920.1040" timestamp="1590554367453" />
+    <state x="582" y="121" key="CommitChangelistDialog2" timestamp="1590640889377">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="582" y="121" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1590640889377" />
+    <state x="740" y="265" key="FileChooserDialogImpl" timestamp="1590558973922">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="265" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1590558973922" />
+    <state width="1877" height="274" key="GridCell.Tab.0.bottom" timestamp="1590587025626">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590587025626" />
+    <state width="1877" height="274" key="GridCell.Tab.0.center" timestamp="1590587025626">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590587025626" />
+    <state width="1877" height="274" key="GridCell.Tab.0.left" timestamp="1590587025626">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590587025626" />
+    <state width="1877" height="274" key="GridCell.Tab.0.right" timestamp="1590587025626">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590587025626" />
+    <state width="1877" height="338" key="GridCell.Tab.1.bottom" timestamp="1590561772682">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590561772682" />
+    <state width="1877" height="338" key="GridCell.Tab.1.center" timestamp="1590561772682">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590561772682" />
+    <state width="1877" height="338" key="GridCell.Tab.1.left" timestamp="1590561772682">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590561772682" />
+    <state width="1877" height="338" key="GridCell.Tab.1.right" timestamp="1590561772682">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590561772682" />
+    <state x="463" y="166" key="SettingsEditor" timestamp="1590554284365">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="463" y="166" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1590554284365" />
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1590551588244">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1590551588244" />
+    <state x="687" y="490" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1590553224356">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="687" y="490" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1590553224356" />
+    <state x="752" y="378" key="git4idea.ui.GitTagDialog" timestamp="1590551803216">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="752" y="378" key="git4idea.ui.GitTagDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590551803216" />
+    <state x="342" y="147" key="new project wizard" timestamp="1590586880096">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="147" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1590586880096" />
+    <state x="668" y="155" key="refactoring.ChangeSignatureDialog" timestamp="1590557778844">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="155" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590557778844" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1590584857026">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1590584857026" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TestDrivenDevelopment$TestHangman.ic" NAME="TestHangman Coverage Results" MODIFIED="1590557112321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.*</FILTER>
+    </SUITE>
+  </component>
+</project>
